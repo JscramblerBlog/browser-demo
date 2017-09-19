@@ -22,7 +22,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 git clone https://github.com/klombomb/browser-demo
 # Go into the repository
-cd electron-quick-start
+cd browser-demo
 # Install dependencies
 npm install
 # Run the app
